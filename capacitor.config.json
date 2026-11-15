@@ -1,0 +1,7 @@
+{
+  "appId": "com.triyani.commandhub",
+  "appName": "TS",
+  "webDir": "www",
+  "backgroundColor": "#0a0a0a",
+  "android": { "backgroundColor": "#0a0a0a" }
+}
